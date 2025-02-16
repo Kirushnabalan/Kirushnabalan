@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kirushnbalan Vijayabalan</h1>
 <h3 align="center">A Student at Informatics Institute of Technology (Sri Lanka)</h3>
 
-- 🔭 I’m currently working on **TrueLens**
+- 🔭 I’m currently working on **TrueLens SDGP Project**
 
 - 🌱 I’m currently learning **React,Express js**
 
