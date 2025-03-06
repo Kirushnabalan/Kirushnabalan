@@ -91,7 +91,7 @@
 </p>
 # GitHub Contribution Graph
 
-![Your Contribution Graph](https://raw.githubusercontent.com/Kirushnabalan/YOUR_REPO_NAME/main/path/to/your/generated_image.png)
+![Your Contribution Graph](https://raw.githubusercontent.com/Kirushnabalan/Kirushnabalan/main/path/to/your/generated_image.png)
 
 
 
