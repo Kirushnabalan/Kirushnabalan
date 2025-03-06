@@ -1,15 +1,6 @@
 <h1 align="center">Hi 👋, I'm Kirushnbalan Vijayabalan</h1>
 <h3 align="center">A Student at Informatics Institute of Technology (Sri Lanka)</h3>
 
-- 🔭 I’m currently working on **TrueLens SDGP Project learn about that here www.truelens.lk**
-
-- 🌱 I’m currently learning **React,Express js**
-
-- 📫 How to reach me **kirushnbalan1803@gmail.com**
-
-  portfolio link **https://kirushnabalan.github.io/portfolio**<h1 align="center">Hi 👋, I'm Kirushnbalan Vijayabalan</h1>
-<h3 align="center">A Student at Informatics Institute of Technology (Sri Lanka)</h3>
-
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=Full-stack+Developer;Passionate+about+ML+%26+AI;Always+Learning+New+Things" alt="Typing SVG" />
 </p>
