@@ -89,9 +89,8 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Contribution Snake"/>
 </p>
-# GitHub Contribution Graph
+![Your Contribution Graph](https://raw.githubusercontent.com/Kirushnabalan/profile-images/main/path/to/your/generated_image.png)
 
-![Your Contribution Graph](https://raw.githubusercontent.com/Kirushnabalan/Kirushnabalan/main/path/to/your/generated_image.png)
 
 
 
