@@ -12,7 +12,7 @@
 - 🔭 I’m currently working on **TrueLens SDGP Project**  
   🔹 Learn more at [www.truelens.lk](https://www.truelens.lk)
 
-- 🌱 I’m currently learning **React, Express.js**  
+- 🌱 I’m currently learning **React, Express.js, NextJs**  
 
 - 📫 Reach me at **kirushnbalan1803@gmail.com**  
 
