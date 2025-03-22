@@ -2,7 +2,7 @@
 <h3 align="center">A Student at Informatics Institute of Technology (Sri Lanka)</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=A85A0A&center=true&vCenter=true&width=600&lines=Full-stack+Developer;Passionate+about+ML+%26+AI;Always+Learning+New+Things" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=000000&center=true&vCenter=true&width=600&lines=Full-stack+Developer;Passionate+about+ML+%26+AI;Always+Learning+New+Things" alt="Typing SVG" />
 </p>
 
 ---
