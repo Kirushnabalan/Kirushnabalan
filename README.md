@@ -83,13 +83,4 @@
   <img src="https://github-readme-stats.vercel.app/api?username=kirushnabalan&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
 
----
-
-### 🐍 Contribution Snake:
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Contribution Snake"/>
-</p>
-
-
-
 
