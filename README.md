@@ -1,79 +1,59 @@
 <h1 align="center">Hi 👋, I'm Kirushnbalan Vijayabalan</h1>
-<h3 align="center">A Student at Informatics Institute of Technology (Sri Lanka)</h3>
+<h3 align="center">Junior Software Engineer | Full-stack Developer | ML & AI Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=000000&center=true&vCenter=true&width=600&lines=Full-stack+Developer;Passionate+about+ML+%26+AI;Always+Learning+New+Things" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=000000&center=true&vCenter=true&width=600&lines=Junior+Software+Engineer+at+Trbogen;Passionate+about+ML+%26+AI;Always+Learning+New+Things" alt="Typing SVG" />
 </p>
 
 ---
-
 
 ### 🚀 About Me
 
-- 🔭 I’m currently working on **TrueLens SDGP Project**  
-  🔹 Learn more at [www.truelens.lk](https://www.truelens.lk)
+- 💼 Currently working as a **Junior Software Engineer at [Turbogen]**  
+- 🔭 Previously contributed to the **TrueLens SDGP Project**  
+  🔗 Learn more: [www.truelens.lk](https://www.truelens.lk)
 
-- 🌱 I’m currently learning **React, Express.js, NextJs**  
+- 🌱 Continuously learning **React**, **Express.js**, and **Next.js**
 
-- 📫 Reach me at **kirushnbalan1803@gmail.com**  
+- 💬 Ask me about **Java**, **Python**, **Machine Learning**, and **Web Development**
 
-- 🌐 Check out my portfolio: [kirushnabalan.github.io/portfolio](https://kirushnabalan.github.io/portfolio)  
+- 📫 Reach me at: [kirushnbalan1803@gmail.com](mailto:kirushnbalan1803@gmail.com)
 
----
-
-### 🌍 Connect with Me:
-<p align="left">
-  <a href="https://linkedin.com/in/kirushnabalan" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" />
-  </a>
-  <a href="https://instagram.com/kirushnbalan" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="30" width="40" />
-  </a>
-  <a href="https://www.hackerrank.com/_kirushnabalan" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="hackerrank" height="30" width="40" />
-  </a>
-</p>
+- 🌐 Portfolio: [kirushnabalan.github.io/portfolio](https://kirushnabalan.github.io/portfolio)
 
 ---
 
-### 🛠️ Languages and Tools:
-<p align="left">
-  <strong>Programming Languages:</strong>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" alt="java" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/><br/>
-  
-  <strong>Frontend Technologies:</strong>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/><br/>
-  
-  <strong>Backend Technologies:</strong>
-  <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/><br/>
-  
-  <strong>Databases:</strong>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/><br/>
-  
-  <strong>UI/UX Design:</strong>
-  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/canva/canva-icon.svg" alt="canva" width="40" height="40"/><br/>
-  
-  <strong>Version Control & Tools:</strong>
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-  <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="github" width="40" height="40"/><br/>
-</p>
-
-
----
-
-### 📊 GitHub Stats:
+### 🌍 Connect with Me
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kirushnabalan&layout=compact&theme=radical" alt="Top Langs" />
+  <a href="https://linkedin.com/in/kirushnabalan" target="_blank" rel="noopener noreferrer">
+    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" width="40" height="40" style="margin:0 10px" />
+  </a>
+  <a href="https://instagram.com/kirushnbalan" target="_blank" rel="noopener noreferrer">
+    <img src="https://cdn-icons-png.flaticon.com/512/174/174855.png" alt="Instagram" width="40" height="40" style="margin:0 10px" />
+  </a>
+  <a href="https://www.hackerrank.com/_kirushnabalan" target="_blank" rel="noopener noreferrer">
+    <img src="https://cdn-icons-png.flaticon.com/512/919/919841.png" alt="HackerRank" width="40" height="40" style="margin:0 10px" />
+  </a>
+</p>
+
+---
+
+### 🛠️ Skills & Tools
+
+| Languages         | Frontend                   | Backend                 | Databases             | Design Tools           | Version Control     |
+|-------------------|----------------------------|-------------------------|-----------------------|------------------------|---------------------|
+| ![Python](https://cdn-icons-png.flaticon.com/512/5968/5968350.png) Python    | ![HTML5](https://cdn-icons-png.flaticon.com/512/732/732212.png) HTML5  | ![Spring](https://spring.io/images/spring-logo-2020.svg) Spring Boot | ![PostgreSQL](https://cdn-icons-png.flaticon.com/512/5968/5968342.png) PostgreSQL | ![Figma](https://cdn-icons-png.flaticon.com/512/5968/5968705.png) Figma | ![Git](https://cdn-icons-png.flaticon.com/512/2111/2111288.png) Git |
+| ![Java](https://cdn-icons-png.flaticon.com/512/226/226777.png) Java          | ![CSS3](https://cdn-icons-png.flaticon.com/512/732/732190.png) CSS3    | ![Node.js](https://cdn-icons-png.flaticon.com/512/919/919825.png) Node.js | ![MySQL](https://cdn-icons-png.flaticon.com/512/5968/5968312.png) MySQL | ![Canva](https://cdn-icons-png.flaticon.com/512/5968/5968386.png) Canva | ![GitHub](https://cdn-icons-png.flaticon.com/512/733/733609.png) GitHub |
+| ![JavaScript](https://cdn-icons-png.flaticon.com/512/5968/5968292.png) JavaScript | ![React](https://cdn-icons-png.flaticon.com/512/1126/1126012.png) React  |                         | ![MongoDB](https://cdn-icons-png.flaticon.com/512/919/919836.png) MongoDB |                        |                     |
+| ![TypeScript](https://cdn-icons-png.flaticon.com/512/5968/5968381.png) TypeScript |                            |                         |                       |                        |                     |
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kirushnabalan&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 <p align="center">
@@ -83,5 +63,3 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=kirushnabalan&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
-
-
