@@ -71,16 +71,20 @@ You said:
 
 ---
 
-### 📊 GitHub Stats:
+### 📊 GitHub Stats
 
 <p align="center">
+  <!-- Top languages (compact) — public-only by default -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kirushnabalan&layout=compact&theme=radical" alt="Top Langs" />
 </p>
 
 <p align="center">
+  <!-- Streak (public contributions only) -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=kirushnabalan&theme=radical" alt="GitHub Streak" />
 </p>
 
 <p align="center">
+  <!-- Overall GitHub stats (public only by default) -->
   <img src="https://github-readme-stats.vercel.app/api?username=kirushnabalan&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
+
